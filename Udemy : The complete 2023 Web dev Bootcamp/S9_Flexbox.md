@@ -65,16 +65,25 @@ Properties applied to a flex box.
 
 ![Basics](image.png)
 
-![felx-direction](image-1.png)
+<p align="center">
+    <img src="image-1.png">
+</p>
 
-![flex-wrap](image-2.png)
-
-![algin content](image-3.png)
-
-![Justify content](image-4.png)
-
-![Align content](image-5.png)
-
-![align-items](image-6.png)
-
-![order](image-7.png)
+<p align="center">
+    <img src="image-2.png">
+</p>
+<p align="center">
+    <img src="image-3.png">
+</p>
+<p align="center">
+    <img src="image-4.png">
+</p>
+<p align="center">
+    <img src="image-5.png">
+</p>
+<p align="center">
+    <img src="image-6.png">
+</p>
+<p align="center">
+    <img src="image-7.png">
+</p>
