@@ -60,3 +60,21 @@ Properties applied to a flex box.
 ---
 ## [Project] Pricing table
 
+
+# Revision:
+
+![Basics](image.png)
+
+![felx-direction](image-1.png)
+
+![flex-wrap](image-2.png)
+
+![algin content](image-3.png)
+
+![Justify content](image-4.png)
+
+![Align content](image-5.png)
+
+![align-items](image-6.png)
+
+![order](image-7.png)
