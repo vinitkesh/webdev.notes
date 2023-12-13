@@ -36,5 +36,18 @@
 ![Alt text](image-12.png)
 ![Alt text](image-13.png)
 
+## Multiple Breakpoints: 
+- Different screens will jhave different layout of the class
+
+![Alt text](image-14.png)
+![Alt text](image-15.png)
+![Alt text](image-16.png)
+
+## - [This](https://appbrewery.github.io/bootstrap-layout/) is to practice coloumn layout
+
+
+
+
+
 
 
