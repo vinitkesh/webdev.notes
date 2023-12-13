@@ -43,7 +43,7 @@
 ![Alt text](image-15.png)
 ![Alt text](image-16.png)
 
-## - [This](https://appbrewery.github.io/bootstrap-layout/) is to practice coloumn layout
+## [This](https://appbrewery.github.io/bootstrap-layout/) is to practice coloumn layout
 
 
 
