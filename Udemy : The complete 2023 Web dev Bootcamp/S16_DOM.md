@@ -36,6 +36,15 @@ has dom representation of :
 
 ![image](https://github.com/vinitkesh/webdev.notes/assets/139075087/34e81607-f316-4127-aa9e-2b36d8725c70)
 
+- Accessing elements using document;
+![FirstelementChild](image-17.png)
+
+![head](image-18.png)
+
+Changing the inner HTML part of h1 in console using the document to a differernt value :
+![Alt text](image-19.png)
+
+![Alt text](image-20.png)
 
 
 
