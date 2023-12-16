@@ -1,13 +1,13 @@
 # Section 16: DOM model
 ## [115. Adding JS to websites]()
 ## [116. Intro to DOM ]()
-## [117. Soln to DOM cahallege]()
-## [118. Selecting html elements in js]()
-## [119. Manipulating styles]()
-## [120. Structure vs style vs behaviour]()
-## [121. Text manipulation, Text content ]()
-## [122. Manipulating attributes]()
-## [123. tips]()
+## [117. Soln to DOM cahallege](https://github.com/vinitkesh/webdev.notes/blob/main/Udemy%20%3A%20The%20complete%202023%20Web%20dev%20Bootcamp/S16_DOM.md#117-soln-to-dom-cahallege-1)
+## [118. Selecting html elements in js](https://github.com/vinitkesh/webdev.notes/blob/main/Udemy%20%3A%20The%20complete%202023%20Web%20dev%20Bootcamp/S16_DOM.md#118-selecting-html-elements-in-js-1)
+## [119. Manipulating styles](https://github.com/vinitkesh/webdev.notes/blob/main/Udemy%20%3A%20The%20complete%202023%20Web%20dev%20Bootcamp/S16_DOM.md#119-manipulating-styles-1)
+## [120. Structure vs style vs behaviour](https://github.com/vinitkesh/webdev.notes/blob/main/Udemy%20%3A%20The%20complete%202023%20Web%20dev%20Bootcamp/S16_DOM.md#120-structure-vs-style-vs-behaviour-1)
+## [121. Text manipulation, Text content ](https://github.com/vinitkesh/webdev.notes/blob/main/Udemy%20%3A%20The%20complete%202023%20Web%20dev%20Bootcamp/S16_DOM.md#121-text-manipulation-text-content)
+## [122. Manipulating attributes](https://github.com/vinitkesh/webdev.notes/blob/main/Udemy%20%3A%20The%20complete%202023%20Web%20dev%20Bootcamp/S16_DOM.md#122-manipulating-attributes-1)
+## [123. tips](https://github.com/vinitkesh/webdev.notes/blob/main/Udemy%20%3A%20The%20complete%202023%20Web%20dev%20Bootcamp/S16_DOM.md#123-tips-1)
 
 # 115. Adding JS to websites
 
