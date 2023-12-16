@@ -1,0 +1,63 @@
+# Section 16: DOM model
+## [115. Adding JS to websites]()
+## [116. Intro to DOM ]()
+## [117. Soln to DOM cahallege]()
+## [118. Selecting html elements in js]()
+## [119. Manipulating styles]()
+## [120. Structure vs style vs behaviour]()
+## [121. Text manipulation, Text content ]()
+## [122. Manipulating attributes]()
+## [123. tips]()
+
+# 115. Adding JS to websites
+
+## Type 1 : Inline JS
+- Try to avoid
+
+    ![image](https://github.com/vinitkesh/webdev.notes/assets/139075087/b8e1137b-83a7-4097-b686-6aaa4e37d2da)
+## Type 2 : Internal JS
+- Try to put script element after initial html structure of the site, in the body
+
+  
+    ![image](https://github.com/vinitkesh/webdev.notes/assets/139075087/e8adfb6a-9bdb-45c3-93f6-b7da61988776)
+
+
+---
+# 116. Intro to DOM 
+
+- Browser converts html into a structure to access and manipuate an internal copy
+![image](https://github.com/vinitkesh/webdev.notes/assets/139075087/51537e20-1d80-4871-b84a-1363e522a94c)
+
+- Example :
+
+![image](https://github.com/vinitkesh/webdev.notes/assets/139075087/5af80686-69cc-424a-a70d-eca437762b7a)
+
+has dom representation of :
+
+![image](https://github.com/vinitkesh/webdev.notes/assets/139075087/34e81607-f316-4127-aa9e-2b36d8725c70)
+
+
+
+
+---
+# 117. Soln to DOM cahallege
+
+---
+# 118. Selecting html elements in js
+
+---
+# 119. Manipulating styles
+
+---
+# 120. Structure vs style vs behaviour
+
+---
+# 121. Text manipulation, Text content 
+
+---
+# 122. Manipulating attributes
+
+---
+# 123. tips
+
+---
