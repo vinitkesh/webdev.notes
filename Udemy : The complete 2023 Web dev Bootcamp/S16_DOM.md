@@ -65,6 +65,35 @@ has dom representation of :
 
 ![Alt text](image-20.png)
 
+### 1. Tag selector
+## eg:  
+```
+document.getElementByTagName("li") 
+```
+### //gives an **array** of all list elements  
+
+
+![list](image-22.png)  
+```
+document.getElementByTagName("li")[2].style.color = "purple" ; 
+```
+### //changes color of 3rd list item to purple
+```
+document.getElementByTagName("li").length;
+```
+### //gives how many li elements are present in thatl location
+    
+## 2. Query selector method :
+```
+document.querySelector("h1");
+```
+![query selector](image-23.png)  
+//gives  
+![Alt text](image-24.png)  
+![Alt text](image-25.png)  
+![Alt text](image-26.png)
+
+
 
 
 ---
@@ -72,6 +101,8 @@ has dom representation of :
 
 ---
 # 118. Selecting html elements in js
+
+get elements
 
 ---
 # 119. Manipulating styles
