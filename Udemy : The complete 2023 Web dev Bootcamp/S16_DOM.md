@@ -105,9 +105,11 @@ document.querySelector("h1");
 ---
 # 119. Manipulating styles
 
-![image](https://github.com/vinitkesh/webdev.notes/assets/139075087/c319a9f5-186d-4398-95ed-9cd93868c774)
+- Input goes as a string ie in double quotes
 
-
+![image](https://github.com/vinitkesh/webdev.notes/assets/139075087/c319a9f5-186d-4398-95ed-9cd93868c774)  
+![Alt text](image-27.png)  
+![Alt text](image-28.png)
 
 ---
 # 120. Structure vs style vs behaviour
