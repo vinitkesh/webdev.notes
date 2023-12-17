@@ -1,5 +1,7 @@
 # Notes: 
 
+# Resources: [Link](https://www.appbrewery.co/p/web-development-course-resources)
+
 ## [Section 6]()
 ## [Section 7]()
 ## [Section 8 Advanced CSS](https://github.com/vinitkesh/webdev.notes/blob/main/Udemy%20%3A%20The%20complete%202023%20Web%20dev%20Bootcamp/S8_Advanced_CSS.md)

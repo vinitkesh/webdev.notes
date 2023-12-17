@@ -45,7 +45,17 @@ has dom representation of :
 ### An object inside dom has 2 properties:
 
 1. Properties: Describes smotheing about the object
-2. Methods:  Describes what it can do/
+2. Methods:  Describes what it can do
+
+![Alt text](image-21.png)
+
+### 2 actions on properties: 
+- Get property eg. firstElementChild, .innerHTML , etc
+- Set property :
+    get property with '=' and a new value;
+
+
+
 
 
 
