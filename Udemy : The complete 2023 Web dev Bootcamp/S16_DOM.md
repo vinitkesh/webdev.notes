@@ -60,6 +60,14 @@ has dom representation of :
 
 
 
+
+
+
+---
+# 117. Soln to DOM cahallege
+
+---
+# 118. Selecting html elements in js
 ### Changing the inner HTML part of h1 in console using the document to a differernt value :
 ![Alt text](image-19.png)
 
@@ -93,16 +101,6 @@ document.querySelector("h1");
 ![Alt text](image-25.png)  
 ![Alt text](image-26.png)
 
-
-
-
----
-# 117. Soln to DOM cahallege
-
----
-# 118. Selecting html elements in js
-
-get elements
 
 ---
 # 119. Manipulating styles
