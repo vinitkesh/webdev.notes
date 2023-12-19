@@ -119,6 +119,7 @@ document.querySelector("h1");
 
 ---
 # 122. Manipulating attributes
+![Alt text](image-29.png)
 
 ---
 # 123. tips
