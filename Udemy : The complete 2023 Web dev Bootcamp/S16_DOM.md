@@ -114,12 +114,38 @@ document.querySelector("h1");
 ---
 # 120. Structure vs style vs behaviour
 
+## Using classList property:
+
+![Alt text](image-87.png)  
+
+## Using Classslist to add / remove css of elements:
+
+invisible css  
+![Alt text](image-88.png)
+
+
+![  add class](image-90.png)  
+html with added  invisible class:  
+![class invisile](image-89.png) 
+
+
+to remove classlist:  
+![Alt text](image-91.png)
+
+to toggle classList :  
+![Alt text](image-92.png)
+
+
+
+
 ---
 # 121. Text manipulation, Text content 
 
 ---
 # 122. Manipulating attributes
 ![Alt text](image-29.png)
+
+
 
 ---
 # 123. tips
