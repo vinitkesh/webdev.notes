@@ -68,4 +68,8 @@ A repo to contain notes and codes for all things webdev.
       These are just a few examples, and there are more pseudo-elements available. Pseudo-elements provide a way to style specific parts of elements without modifying the HTML structure directly, which can be useful for creating decorative effects or fine-tuning the appearance of your web pages.
       
       </details>
-      
+</br>
+
+1. [realtimecolors](https://www.realtimecolors.com/?colors=0f0f0f-ffffff-155831-d7e4dc-c20002&fonts=Poppins-Poppins)
+2. [fontpair.co](https://www.fontpair.co/)
+3. [gradient.style](https://gradient.style/)
