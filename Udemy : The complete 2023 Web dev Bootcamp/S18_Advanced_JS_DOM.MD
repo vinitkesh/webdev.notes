@@ -8,3 +8,5 @@
 
 using annonymous functions:  
 ![Alt text](image-94.png)
+
+![Alt text](image-95.png)
