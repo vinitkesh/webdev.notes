@@ -9,8 +9,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Home', link: '/' },  
+      { text: 'Advanced CSS', link: '/Udemy/S8_Advanced_CSS.md' },
     ],
 
     sidebar: [
@@ -31,6 +31,6 @@ export default defineConfig({
     ]
   },
   sitemap: {
-		hostname: 'https://vinitkesh.github.io',
+		hostname: 'https://vinitkesh.github.io/webdev.notes/',
 	},
 })
