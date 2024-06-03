@@ -21,9 +21,14 @@ export default defineConfig({
         ]
       }
     ],
-
+    footer: {
+			copyright: `Copyright © ${new Date().getFullYear()} National Institute of Technology Calicut`,
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
-  }
+  },
+  sitemap: {
+		hostname: 'https://vinitkesh.github.io',
+	},
 })
