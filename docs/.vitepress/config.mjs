@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Web Dev Notes",
   description: "Web dev notes in Markdown",
+  base: '/web-dev-notes/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
