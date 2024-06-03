@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  ignoreDeadLinks: true,
   title: "Web Dev Notes",
   description: "Web dev notes in Markdown",
   base: '/webdev.notes/',

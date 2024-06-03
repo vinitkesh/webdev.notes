@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as o}from"./chunks/framework.Butr-cWb.js";const S=JSON.parse('{"title":"EJS","description":"","frontmatter":{},"headers":[],"relativePath":"Udemy/S25_EJS.md","filePath":"Udemy/S25_EJS.md"}'),r={name:"Udemy/S25_EJS.md"},s=o("",7),n=[s];function i(l,c,d,h,_,m){return t(),e("div",null,n)}const u=a(r,[["render",i]]);export{S as __pageData,u as default};
